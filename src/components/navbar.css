@@ -1,0 +1,18 @@
+.navbar-brand{
+    font-size: 25px;
+    margin-top: 20px;
+    display: flex;
+}
+.logo{
+    width: 190px;
+    height: 100px;
+}
+.navbar-h5{
+    margin-right: 40px;
+}
+.navbar{
+    display: flex;
+}
+.logoname{
+    margin-top: 20px;
+}

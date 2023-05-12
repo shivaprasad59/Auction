@@ -1,0 +1,25 @@
+.input-field{
+    display: block;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+form{
+    margin-top: 200px;
+    margin-left: 400px;
+    border: 1px solid black;
+    margin-right: 600px;
+    border-radius: 20px ;
+    height: 400px;
+    box-shadow: 10px 10px 10px grey;
+}
+.input-button{
+    margin-left: 180px;
+    margin-top: 30px;
+    padding: 5px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 5px;
+    background-color: rgb(95, 95, 223);
+}

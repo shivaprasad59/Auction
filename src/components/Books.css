@@ -1,0 +1,25 @@
+.book{
+  border: 1px solid black;   
+  width: 300px;
+  height: 336px;
+  margin-left: 100px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 3px grey;
+  margin-top: 100px;
+}
+.books{
+    display: flex;
+}
+.image-book{
+    width: 297px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 160px;
+}
+.button-books{
+    margin-left: 70px;
+    width: 150px;
+    height: 45px;
+    border-radius: 10px ;
+    background-color: rgb(30, 223, 40);
+}
