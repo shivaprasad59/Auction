@@ -9,6 +9,13 @@
 }
 .navbar-h5{
     margin-right: 40px;
+    border: 1px solid black;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
 }
 .navbar{
     display: flex;

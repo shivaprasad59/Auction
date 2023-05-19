@@ -12,13 +12,13 @@ const Home = () => {
                 <div class="card" style={{width:"300px"}}>
                     <img src={book1} class="card-img-top" alt="..." />
                     <div class="card-body">
-                        <a href="/Books" class="btn btn-primary">Go to Books</a>
+                        <a href="/Books" class="btn btn-success">Go to Books</a>
                     </div>
                 </div>
                 <div class="card" style={{width:"300px"}}>
                     <img src={antique} class="card-img-top" alt="..." />
                     <div class="card-body">
-                        <a href="/Antiques" class="btn btn-primary">Go to Antiques</a>
+                        <a href="/Antiques" class="btn btn-success">Go to Antiques</a>
                     </div>
                 </div>
             </>

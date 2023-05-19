@@ -1,7 +1,7 @@
 .book{
   border: 1px solid black;   
   width: 300px;
-  height: 336px;
+  height: 359px;
   margin-left: 100px;
   border-radius: 25px;
   box-shadow: 3px 3px 3px grey;
@@ -22,4 +22,7 @@
     height: 45px;
     border-radius: 10px ;
     background-color: rgb(30, 223, 40);
+}
+.books-button{
+    margin-left: 150px;
 }

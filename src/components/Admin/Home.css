@@ -5,8 +5,8 @@
     margin-top: 20px;
     margin-left: 20px;
 }
-form{
-    margin-top: 200px;
+.form{
+    margin-top: 30px;
     margin-left: 400px;
     border: 1px solid black;
     margin-right: 600px;
@@ -22,4 +22,17 @@ form{
     padding-right: 35px;
     border-radius: 5px;
     background-color: rgb(95, 95, 223);
+}
+.admin-home-components{
+margin-left: 480px;
+margin-top: 50px;
+border: 1px solid black;
+border-radius: 8px;
+margin-right: 700px;
+}
+.addantiques{
+    border: 2px solid black;
+}
+.addbooks{
+    padding-left: 10px;
 }
